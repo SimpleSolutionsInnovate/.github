@@ -1,8 +1,6 @@
 
-Certainly! Here's a sample content for your README file:
-
-[Your Organization Name] React TypeScript Component Library
-Welcome to [Your Organization Name] React TypeScript Component Library! This repository is dedicated to developing a comprehensive collection of reusable React components built with TypeScript, aiming to streamline and enhance the development of web applications.
+SSI React TypeScript Component Library
+Welcome to SSI React TypeScript Component Library! This repository is dedicated to developing a comprehensive collection of reusable React components built with TypeScript, aiming to streamline and enhance the development of web applications.
 
 About
 This library is focused on providing a set of well-designed, customizable, and easy-to-use components for React applications. By utilizing TypeScript, we aim to ensure strong typing and improved developer experience, enabling seamless integration and maintenance within various projects.
@@ -17,17 +15,17 @@ Install the package using npm or yarn:
 bash
 Copy code
 # Using npm
-npm install @your-organization-name/react-components
+npm install @ssi/react-components
 
 # Using yarn
-yarn add @your-organization-name/react-components
+yarn add @ssi/react-components
 Usage
 
 Import the components into your React application:
 
 javascript
 Copy code
-import { Button, Input, ... } from '@your-organization-name/react-components';
+import { Button, Input, ... } from '@ssi/react-components';
 // Use components in your application
 Documentation
 
